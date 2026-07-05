@@ -1,0 +1,20 @@
+
+## Project-1 (create a rule based AI Chatbot)
+
+# 1. Objective (Goal)
+The primary objective of this project is to build a foundational Rule-Based AI Chatbot that can simulate basic human interaction by responding to predefined user inputs.
+
+# techmology ​
+
+# Phase 1: Input & Sanitization (IPO: Input)
+Raw Data Feed: Capture the user's raw string input using the program's input reader.  
+Normalization Process: Clean the text by converting it to lowercase and stripping extra spaces (e.g., transforming "HeLLo " into "hello") to prevent minor user formatting variations from breaking the rules.  
+# Phase 2: Intent Matching & State (IPO: Process)
+T Use structured logic gates to pass the cleaned input through explicit if-else statements.  
+Matching: Check the input against specific predefined keywords or conditional triggers (such as detecting common greetings or an exit phrase).  
+# Phase 3: Response Generation (IPO: Output)
+Feedback Loop: Trigger a 100% hard-coded, zero-hallucination text response based on whichever logical condition evaluates to true.  
+Continuous Cycle: Return the flow back to Phase 1 until an explicit exit command breaks the execution loop.  
+# 4. Key Results
+100% Deterministic System: successfully build a "White Box" system characterized by absolute traceability
+Successfully completing and verifying this high-quality project unlocks all subsequent advanced AI milestones in the training track.
