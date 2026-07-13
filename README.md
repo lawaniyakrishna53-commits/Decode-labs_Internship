@@ -5,5 +5,5 @@
 - upload project on GitHub.
 
 # Project 2
--Industrial Training Kit
+- Industrial Training Kit
 - Data Classification Using AI
