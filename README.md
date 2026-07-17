@@ -11,3 +11,6 @@
 # Project 3
 - Build a simple AI Recommendation System that suggests items based on a user's preferences.
 - Building a portfolio of AI projects for future jobs.
+
+# Project 
+- Create a basic AI application 
