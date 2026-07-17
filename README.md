@@ -14,3 +14,4 @@
 
 # Project 
 - Create a basic AI application 
+- The project emphasizes learning AI through practical implementation.
