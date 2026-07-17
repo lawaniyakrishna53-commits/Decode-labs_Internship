@@ -7,3 +7,6 @@
 # Project 2
 - Industrial Training Kit
 - Data Classification Using AI
+
+# Project 3
+- Build a simple AI Recommendation System that suggests items based on a user's preferences.
